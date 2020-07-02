@@ -1,0 +1,7 @@
+build/
+nbproject/
+dist/
+src/br/com/infox/dal/ModuloConexao.java
+test/
+build.xml
+manifest.mf
