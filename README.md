@@ -18,7 +18,7 @@
   <img alt="Inicio" src="https://github.com/juuliana/Sistema_OrdemServico/blob/master/imagensProject/Login.png">
 </p>
 
-## Ao fazer o Login, você terá o acesso: ( Você pode ser User ou Administrador )
+## Ao fazer o Login, você terá o acesso (Podendo ser User ou Administrador)
 <p align="center">A diferença é que o User têm algumas restrições dentro do sistema.</p>
 <p align="center">
   <img alt="Inicio" src="https://github.com/juuliana/Sistema_OrdemServico/blob/master/imagensProject/Home.png">
