@@ -1,6 +1,7 @@
 build/
 nbproject/
-dist/
+dist/lib/mysql-connector-java-5.1.48-bin.jar
+dist/lib/rs2xml.jar
 src/br/com/infox/dal/ModuloConexao.java
 test/
 build.xml
